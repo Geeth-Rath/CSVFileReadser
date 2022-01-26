@@ -1,0 +1,15 @@
+C:\Geethma\Activity\CSVreader\obj\Debug\net6.0\CSVreader.csproj.AssemblyReference.cache
+C:\Geethma\Activity\CSVreader\obj\Debug\net6.0\CSVreader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geethma\Activity\CSVreader\obj\Debug\net6.0\CSVreader.AssemblyInfoInputs.cache
+C:\Geethma\Activity\CSVreader\obj\Debug\net6.0\CSVreader.AssemblyInfo.cs
+C:\Geethma\Activity\CSVreader\obj\Debug\net6.0\CSVreader.csproj.CoreCompileInputs.cache
+C:\Geethma\Activity\CSVreader\bin\Debug\net6.0\CSVreader.exe
+C:\Geethma\Activity\CSVreader\bin\Debug\net6.0\CSVreader.deps.json
+C:\Geethma\Activity\CSVreader\bin\Debug\net6.0\CSVreader.runtimeconfig.json
+C:\Geethma\Activity\CSVreader\bin\Debug\net6.0\CSVreader.dll
+C:\Geethma\Activity\CSVreader\bin\Debug\net6.0\ref\CSVreader.dll
+C:\Geethma\Activity\CSVreader\bin\Debug\net6.0\CSVreader.pdb
+C:\Geethma\Activity\CSVreader\obj\Debug\net6.0\CSVreader.dll
+C:\Geethma\Activity\CSVreader\obj\Debug\net6.0\ref\CSVreader.dll
+C:\Geethma\Activity\CSVreader\obj\Debug\net6.0\CSVreader.pdb
+C:\Geethma\Activity\CSVreader\obj\Debug\net6.0\CSVreader.genruntimeconfig.cache

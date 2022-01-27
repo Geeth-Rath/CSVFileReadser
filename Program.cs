@@ -10,6 +10,7 @@ namespace Program
         {
             AddNewColl();
             Console.ReadLine();
+
         }
 
         static void CSVFilereader()
@@ -33,7 +34,7 @@ namespace Program
 
             List<string> lines = File.ReadAllLines("people.csv").ToList();
             StringBuilder sb = new StringBuilder("", lines.Count + 1);
-           
+
 
             foreach (var line in lines)
             {

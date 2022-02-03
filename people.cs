@@ -5,9 +5,9 @@ namespace Program
         public string Name { get; set; }
         public string Company { get; set; }
 
-    public void CSVFilereader()
+        public void CSVFilereader()
         {
-           
+
             var lines = File.ReadAllLines("people.csv");
             var List = new List<People>();
             foreach (var line in lines)

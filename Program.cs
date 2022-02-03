@@ -8,14 +8,14 @@ namespace Program
     {
         static void Main(string[] args)
         {
-           FileWriter w = new FileWriter();
-           People people = new People();
-         //  w.AddNewColl();
-           people.CSVFilereader();
-            Console.ReadLine();
+            FileWriter w = new FileWriter();
+            People people = new People();
+             w.AddNewColl();
+            people.CSVFilereader();
+           // Console.ReadLine();
 
         }
 
     }
-    
+
 }

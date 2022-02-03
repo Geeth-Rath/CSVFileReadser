@@ -2,8 +2,9 @@ using System.Text;
 
 namespace Program
 {
-    public class FileWriter{
-    public void AddNewColl()
+    public class FileWriter
+    {
+        public void AddNewColl()
         {
 
             List<string> lines = File.ReadAllLines("people.csv").ToList();

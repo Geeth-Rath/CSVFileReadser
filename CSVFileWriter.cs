@@ -1,8 +1,15 @@
 using System.Text;
 
+
 namespace Program
 {
-    public class FileWriter
+    public interface Writterable
+    {
+        void AddNewColl();
+
+
+    }
+    public class FileWriter : Writterable
     {
         public void AddNewColl()
         {
@@ -24,4 +31,7 @@ namespace Program
 
         }
     }
+
+
 }
+

@@ -8,11 +8,13 @@ namespace Program
     {
         static void Main(string[] args)
         {
+
+            Filereader r = new Filereader();
+            r.CSVFilereader();
+
             FileWriter w = new FileWriter();
-            People people = new People();
-             w.AddNewColl();
-            people.CSVFilereader();
-           // Console.ReadLine();
+            w.AddNewColl();
+            Console.ReadLine();
 
         }
 
